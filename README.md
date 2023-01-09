@@ -1,6 +1,7 @@
 # modernApp
+# Demo at 👉 : 
 
-ModernApp is a full-fledged, cool-designed landing page of showcasing one software company's webpage.
+ModernApp is a full-fledged, cool-designed landing page of showcasing one software tech company's webpage.
 
 ## Tech Stach
 - [**_react.js_**](https://react-bootstrap.github.io/)
