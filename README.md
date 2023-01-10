@@ -1,5 +1,4 @@
-# modernApp
-# Demo at 👉 : 
+# Demo at 👉 : [modernApp](https://modern-mobile-app.netlify.app/)
 
 ModernApp is a full-fledged, cool-designed landing page of showcasing one software tech company's webpage.
 
