@@ -2,6 +2,8 @@
 
 ***ModernApp is a full-fledged, cool-designed landing page of showcasing one software tech company's webpage.***
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2aa84cbe-1c28-4ebd-9ca8-2f5cd86b1377/deploy-status)](https://app.netlify.com/sites/modern-mobile-app/deploys)
+
 ## ***Tech Stach***
 - [**_react.js_**](https://react-bootstrap.github.io/): _A JavaScript library for building user interfaces_
 - [**_react-bootstrap_**](https://react-bootstrap.github.io/): _Front-end framework for react_
