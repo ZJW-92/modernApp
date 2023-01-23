@@ -5,12 +5,10 @@ export const SectionArea = styled.section`
 	padding-bottom: 30px;
 `;
 export const MainGradient = styled.span`
-	background: rgb(82, 136, 252);
-	background: linear-gradient(
-		90deg,
-		rgba(82, 136, 252, 1) 57%,
-		rgba(203, 28, 90, 1) 94%
-	) !important;
+	background:linear-gradient(90deg, #0ea5ea, #0bd1d1 51%, #0ea5ea)!important;
+	//background: linear-gradient(90deg, #0ea5ea, #0bd1d1 51%);
+	// background: 	linear-gradient( 90deg, rgba(82, 136, 252, 1) 57%, rgba(203, 28, 90, 1) 94%) !important;
+
 	-webkit-background-clip: text !important;
 	-webkit-text-fill-color: transparent !important;
 	background-clip: text !important;
@@ -19,11 +17,9 @@ export const MainGradient = styled.span`
 
 
 export const MainButton = styled.button`
-	background: linear-gradient(
-		100deg,
-		rgba(2, 133, 246, 1) 0%,
-		rgba(4, 177, 252, 1) 100%
-	);
+	
+//background: linear-gradient(90deg, #0ea5ea, #0bd1d1 51%);
+background: linear-gradient(100deg, rgba(2, 133, 246, 1) 0%, rgba(4, 177, 252, 1) 100%);
 	color: #fff;
 	padding: 0.5rem 0.8rem;
 	font-weight: 400;
