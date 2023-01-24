@@ -32,7 +32,7 @@ const Hero = () => {
 						<Col xs={12} lg={6}>
 							<lottie-player classNameName='animPlayer' style={{ width: '115%', height: '115%' }}
 								autoplay background='transparent' loop speed={1} mode='normal'
-								src='https://assets8.lottiefiles.com/packages/lf20_wloxwco0.json'
+								src='https://assets7.lottiefiles.com/packages/lf20_mnek7m6l.json'
 								//https://assets8.lottiefiles.com/private_files/lf30_yc1xrhz7.json
 								//https://assets8.lottiefiles.com/packages/lf20_zyqfid68.json
 								// https://assets8.lottiefiles.com/packages/lf20_wloxwco0.json
